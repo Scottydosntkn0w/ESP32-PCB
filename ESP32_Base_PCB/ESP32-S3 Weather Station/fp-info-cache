@@ -1,4 +1,4 @@
-23041160157015963
+23042869459189703
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +13,13 @@ audio belton reverb
 0
 7
 7
+B82442T1104K050
+INDM5650X530N
+
+
+0
+2
+2
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -56825,13 +56832,6 @@ heatsink
 0
 0
 0
-IR2104SPBF
-SOIC127P600X175-8N
-
-
-0
-8
-8
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -67224,6 +67224,13 @@ Oscillator
 Oscillator_SeikoEpson_SG-8002DC
 8-lead dip package, row spacing 7.62 mm (300 mils)
 DIL DIP PDIP 2.54mm 7.62mm 300mil
+0
+4
+4
+PTS815_SJG_250_SMTR_LFS
+PTS815SJG250SMTRLFS
+<b>PTS815 SJG 250 SMTR LFS-1</b><br>
+
 0
 4
 4
