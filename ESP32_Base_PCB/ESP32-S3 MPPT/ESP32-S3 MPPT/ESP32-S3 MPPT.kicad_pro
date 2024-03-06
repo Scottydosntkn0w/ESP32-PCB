@@ -430,7 +430,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ESP32-S3 Weather Station.kicad_pro",
+    "filename": "ESP32-S3 MPPT.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -506,7 +506,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -534,8 +534,8 @@
         },
         {
           "group_by": false,
-          "label": "Description",
-          "name": "Description",
+          "label": "A1_MIN",
+          "name": "A1_MIN",
           "show": false
         },
         {
@@ -774,6 +774,12 @@
         },
         {
           "group_by": false,
+          "label": "MAXIMUM_PACKAGE_HEIGHT",
+          "name": "MAXIMUM_PACKAGE_HEIGHT",
+          "show": false
+        },
+        {
+          "group_by": false,
           "label": "MF",
           "name": "MF",
           "show": false
@@ -846,6 +852,12 @@
         },
         {
           "group_by": false,
+          "label": "Purchase-URL",
+          "name": "Purchase-URL",
+          "show": false
+        },
+        {
+          "group_by": false,
           "label": "SNAPEDA_PACKAGE_ID",
           "name": "SNAPEDA_PACKAGE_ID",
           "show": false
@@ -888,20 +900,8 @@
         },
         {
           "group_by": false,
-          "label": "A1_MIN",
-          "name": "A1_MIN",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MAXIMUM_PACKAGE_HEIGHT",
-          "name": "MAXIMUM_PACKAGE_HEIGHT",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Purchase-URL",
-          "name": "Purchase-URL",
+          "label": "Description",
+          "name": "Description",
           "show": false
         }
       ],
@@ -909,7 +909,7 @@
       "group_symbols": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "Footprint"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -952,7 +952,7 @@
   },
   "sheets": [
     [
-      "723c225f-3ab0-4f36-93dc-1f4218d303e0",
+      "ec8ebafb-576b-42c7-89dc-628a18958edc",
       "Root"
     ]
   ],
