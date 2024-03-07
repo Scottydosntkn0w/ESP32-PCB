@@ -7795,7 +7795,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "1N5819"
 			(at 66.04 55.88 0)
 			(effects
 				(font
@@ -8411,7 +8411,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "0805B104K101CC"
 			(at 420.37 66.04 0)
 			(effects
 				(font
@@ -9027,7 +9027,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "0805W106K500CC"
 			(at 90.17 55.88 0)
 			(effects
 				(font
@@ -9646,7 +9646,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "282837-4"
 			(at 360.68 252.73 0)
 			(effects
 				(font
@@ -10270,7 +10270,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "0603GBD0790S01"
 			(at 190.5 54.61 0)
 			(effects
 				(font
@@ -11018,7 +11018,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "0805W106K500CC"
 			(at 127 55.88 0)
 			(effects
 				(font
@@ -11637,7 +11637,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "282837-3"
 			(at 360.68 176.53 0)
 			(effects
 				(font
@@ -11892,7 +11892,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LESD5D5.0CT1G"
+		(property "Value" "ESD5Z12V"
 			(at 72.898 76.962 0)
 			(effects
 				(font
@@ -12316,7 +12316,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" ""
+		(property "Manufacturer_Name" "ESD5Z12V"
 			(at 69.85 82.55 0)
 			(effects
 				(font
@@ -12325,7 +12325,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "ESD5Z12V"
 			(at 69.85 82.55 0)
 			(effects
 				(font
@@ -12511,7 +12511,7 @@
 				)
 			)
 		)
-		(property "Value" "PTS810_SJM_250_SMTR_LFS"
+		(property "Value" "PTS 647 SN50 SMTR2 LFS"
 			(at 407.67 52.07 0)
 			(effects
 				(font
@@ -12519,7 +12519,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PTS815_SJG_250_SMTR_LFS:PTS815SJG250SMTRLFS"
+		(property "Footprint" "PTS_647_SN50_SMTR2_LFS:SW_PTS_647_SN50_SMTR2_LFS"
 			(at 407.67 52.07 0)
 			(effects
 				(font
@@ -12942,7 +12942,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "PTS 647 SN50 SMTR2 LFS"
 			(at 407.67 59.69 0)
 			(effects
 				(font
@@ -13564,7 +13564,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "0805B105K250DC"
 			(at 52.07 165.1 0)
 			(effects
 				(font
@@ -13750,7 +13750,7 @@
 				)
 			)
 		)
-		(property "Value" "PTS810_SJM_250_SMTR_LFS"
+		(property "Value" "PTS 647 SN50 SMTR2 LFS"
 			(at 350.52 52.07 0)
 			(effects
 				(font
@@ -13758,7 +13758,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PTS815_SJG_250_SMTR_LFS:PTS815SJG250SMTRLFS"
+		(property "Footprint" "PTS_647_SN50_SMTR2_LFS:SW_PTS_647_SN50_SMTR2_LFS"
 			(at 350.52 52.07 0)
 			(effects
 				(font
@@ -14181,7 +14181,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "PTS 647 SN50 SMTR2 LFS"
 			(at 350.52 59.69 0)
 			(effects
 				(font
@@ -14439,7 +14439,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LESD5D5.0CT1G"
+		(property "Value" "ESD5Z12V"
 			(at 77.724 76.708 0)
 			(effects
 				(font
@@ -14862,7 +14862,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" ""
+		(property "Manufacturer_Name" "ESD5Z12V"
 			(at 74.93 82.55 0)
 			(effects
 				(font
@@ -14871,7 +14871,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "ESD5Z12V"
 			(at 74.93 82.55 0)
 			(effects
 				(font
@@ -15490,7 +15490,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "282837-3"
 			(at 360.68 214.63 0)
 			(effects
 				(font
@@ -16112,7 +16112,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "282837-4"
 			(at 360.68 201.93 0)
 			(effects
 				(font
@@ -16736,7 +16736,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "RMCF0603JT220R"
 			(at 332.74 193.04 0)
 			(effects
 				(font
@@ -17354,7 +17354,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "RC0603FR-0710KL"
 			(at 370.84 54.61 0)
 			(effects
 				(font
@@ -17681,7 +17681,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 337.058 154.94 90)
 			(effects
 				(font
@@ -18722,7 +18722,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "RC0603FR-075K1L"
 			(at 66.04 66.04 0)
 			(effects
 				(font
@@ -19340,7 +19340,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "RC0603FR-0710KL"
 			(at 52.07 152.4 0)
 			(effects
 				(font
@@ -19959,7 +19959,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "ESP32-S3-WROOM-2-N32R8V"
 			(at 76.2 199.39 0)
 			(effects
 				(font
@@ -20893,7 +20893,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "RC0603FR-0775RL"
 			(at 182.88 48.26 0)
 			(effects
 				(font
@@ -21512,7 +21512,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "282837-2"
 			(at 360.68 165.1 0)
 			(effects
 				(font
@@ -22131,7 +22131,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "282837-4"
 			(at 360.68 226.06 0)
 			(effects
 				(font
@@ -22755,7 +22755,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "RC0603FR-0710KL"
 			(at 427.99 54.61 0)
 			(effects
 				(font
@@ -23371,7 +23371,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "0805B104K101CC"
 			(at 66.04 137.16 0)
 			(effects
 				(font
@@ -24121,7 +24121,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "RL0603FR-070R47L"
 			(at 322.58 193.04 0)
 			(effects
 				(font
@@ -24737,7 +24737,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "0805W106K500CC"
 			(at 60.96 137.16 0)
 			(effects
 				(font
@@ -25419,7 +25419,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "0805W106K500CC"
 			(at 170.18 54.61 0)
 			(effects
 				(font
@@ -26300,7 +26300,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "0805B104K101CC"
 			(at 132.08 55.88 0)
 			(effects
 				(font
@@ -26919,7 +26919,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "282837-3"
 			(at 360.68 265.43 0)
 			(effects
 				(font
@@ -27538,7 +27538,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "0805B104K101CC"
 			(at 363.22 66.04 0)
 			(effects
 				(font
@@ -28155,7 +28155,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "  USB4105-GF-A"
 			(at 40.64 71.12 0)
 			(effects
 				(font
@@ -28819,7 +28819,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "ADS1015IDGS"
 			(at 191.77 170.18 0)
 			(effects
 				(font
@@ -29525,7 +29525,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "0805B104K101CC"
 			(at 175.26 54.61 0)
 			(effects
 				(font
@@ -29711,7 +29711,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LESD5D5.0CT1G"
+		(property "Value" "ESD5Z12V"
 			(at 58.928 43.18 0)
 			(effects
 				(font
@@ -30134,7 +30134,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" ""
+		(property "Manufacturer_Name" "ESD5Z12V"
 			(at 64.77 45.72 0)
 			(effects
 				(font
@@ -30143,7 +30143,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "ESD5Z12V"
 			(at 64.77 45.72 0)
 			(effects
 				(font
@@ -30761,7 +30761,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "RC0603FR-075K1L"
 			(at 66.04 60.96 0)
 			(effects
 				(font
@@ -31378,7 +31378,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "AMS1117-3.3"
 			(at 153.67 48.26 0)
 			(effects
 				(font
@@ -31566,7 +31566,7 @@
 				)
 			)
 		)
-		(property "Value" "SK6812"
+		(property "Value" " Adafruit SK6812"
 			(at 283.718 59.69 0)
 			(effects
 				(font
@@ -31999,7 +31999,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "1655"
 			(at 274.32 63.5 0)
 			(effects
 				(font
@@ -32624,7 +32624,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "282837-4"
 			(at 360.68 187.96 0)
 			(effects
 				(font
@@ -33381,7 +33381,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "282837-2"
 			(at 360.68 156.21 0)
 			(effects
 				(font

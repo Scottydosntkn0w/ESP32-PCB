@@ -436,7 +436,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ESP32-S3 Weather Station V2.kicad_pro",
+    "filename": "Weather with charge.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -920,7 +920,7 @@
       "group_symbols": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Manufacturer_Name"
+      "sort_field": "Footprint"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -950,6 +950,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
